@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="emotion_array">
+    <item>😍: Lovely</item>
+    <item>🤣: Hilarious</item>
+    <item>👌: OK</item>
+    <item>🫡: Yes, sir</item>
+</string-array>
+
+    </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edit_text_box xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#FFFFFF" /> <!-- Background color of the box -->
+        <stroke
+            android:width="5dp"
+            android:color="@color/black"/> <!-- Border width -->
+        <corners android:radius="200dp" /> <!-- Corner radius -->
+    </shape>
+</edit_text_box>
